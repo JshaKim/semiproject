@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbc54371-247e-42d4-8b92-27d4e6c725b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springeagles/src/main/resources/static/images/blogPost3Logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springeagles/src/main/resources/static/images/blogPost3PageProfile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springeagles/src/main/resources/static/index3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springeagles/src/main/resources/templates/sampleBlogPage3/blogPost3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springeagles/src/main/resources/templates/sampleBlogPage3/fragments/blogPost_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springeagles/src/main/resources/templates/sampleBlogPage3/fragments/blogPost_sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springeagles/src/main/resources/templates/sampleBlogPage3/fragments/blogPost_user-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SpringEagles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpringEagles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springeagles/src/main/java/com/ohgiraffers/springeagles/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springeagles/src/main/java/com/ohgiraffers/springeagles/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springeagles/src/main/resources/templates/fragments/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/springeagles/src/main/resources/templates/fragments/post.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/springeagles">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2i8CjxkhBB6tvAlsxus4grSHpT7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.Build springeagles.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.SpringeaglesApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/class/08_spring-webMvc/SpringEagles/springeagles/src/main/resources/static/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\class\08_spring-webMvc\SpringEagles\springeagles\src\main\resources\static\images" />
+      <recent name="D:\class\08_spring-webMvc\SpringEagles\springeagles\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\class\08_spring-webMvc\SpringEagles\springeagles\src\main\resources\static" />
+      <recent name="D:\class\08_spring-webMvc\SpringEagles\springeagles\src\main\resources\static\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringeaglesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springeagles.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ohgiraffers.springeagles.SpringeaglesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbc54371-247e-42d4-8b92-27d4e6c725b6" name="Changes" comment="" />
+      <created>1718862957550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718862957550</updated>
+      <workItem from="1718862958655" duration="8287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
